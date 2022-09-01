@@ -33,7 +33,7 @@ body{
     }
 }
 
-.container{
+.card{
     max-width: 100%;
     background-color: var(--White);
     
