@@ -23,8 +23,6 @@ body{
     align-items: center;
     justify-content: center;
     height: calc(100vh - 1px);
-
-    margin: 1.25rem;
 }
 
 .card{
